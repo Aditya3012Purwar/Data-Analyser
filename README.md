@@ -1,7 +1,5 @@
 # Data-Analyser
 
-# Data Analyser Bot with ARIMA, SARIMA, and LangChain Integration
-
 This repository contains a Streamlit-based Data Analyser Bot that leverages time series forecasting techniques such as ARIMA and SARIMA for understanding trends and predicting future sales data. Additionally, it incorporates LangChain, utilizing Large Language Models (LLMs) from OpenAI for question-answering capabilities on the DataFrame.
 
 ## Features
